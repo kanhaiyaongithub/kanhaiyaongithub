@@ -2,8 +2,17 @@
   <img src="https://raw.githubusercontent.com/kanhaiyaongithub/kanhaiyaongithub/main/github_profile_banner.gif" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&pause=1000&color=F70022&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kanhaiya+Choudhary"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 # 💫 About Me:
-I'm currently working on placement update dashboard <br>I'm currently learning System Design<br>
+I'm a Full Stack Developer<br>I'm currently working on placement update dashboard <br>I'm currently learning System Design<br>
 
 
 # 🌐 Socials:
