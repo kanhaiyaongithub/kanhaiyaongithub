@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kanhaiyaongithub/kanhaiyaongithub/main/github_profile_banner.gif" alt="Banner" width="100%">
 </p>
+
 # 💫 About Me:
 I'm currently working on placement update dashboard <br>I'm currently learning System Design<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanhaiyaa_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanhaiya-choudhary-187948359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanhaiyaworks10@gmail.com) 
 
 # 💻 Tech Stack:
