@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kanhaiyaongithub/kanhaiyaongithub/main/github_profile_banner.gif" alt="Banner" width="100%">
+</p>
 # 💫 About Me:
 I'm currently working on placement update dashboard <br>I'm currently learning System Design<br>
 
