@@ -25,7 +25,5 @@ I'm a Full Stack Developer<br>I'm currently working on placement update dashboar
 ![](https://streak-stats.demolab.com/?user=kanhaiyaongithub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kanhaiyaongithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=kanhaiyaongithub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📈 GitHub Contribution Graph:
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanhaiyaongithub/kanhaiyaongithub/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanhaiyaongithub/kanhaiyaongithub/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kanhaiyaongithub/kanhaiyaongithub/output/pacman-contribution-graph.svg"> </picture>
